@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJMMNd8zumWwiWOc0E/8QS0q8r264wggAcnhS/xvvlaagDqRTnKa52saBB4z7tHiVUwgeYFOiCKyjpLjVyGN2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luism\\source\\repos\\almacen_caffenio\\almacen_caffenio\\almacen_caffenio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luism\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
